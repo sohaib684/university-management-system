@@ -1,0 +1,113 @@
+{
+    "monday" : [
+        {
+            "subject": "Physics",
+            "teacher": "SP"
+        },
+        {
+            "subject": "Chemistry",
+            "teacher": "SK"
+        },
+        {
+            "subject": "Maths",
+            "teacher": "KT"
+        },
+        {
+            "subject": "English",
+            "teacher": "MM"
+        }
+    ],
+    "tuesday" : [
+        {
+            "subject": "Physics",
+            "teacher": "SP"
+        },
+        {
+            "subject": "Chemistry",
+            "teacher": "SK"
+        },
+        {
+            "subject": "Maths",
+            "teacher": "KT"
+        },
+        {
+            "subject": "English",
+            "teacher": "MM"
+        }
+    ],
+    "wednesday" : [
+        {
+            "subject": "Physics",
+            "teacher": "SP"
+        },
+        {
+            "subject": "Chemistry",
+            "teacher": "SK"
+        },
+        {
+            "subject": "Maths",
+            "teacher": "KT"
+        },
+        {
+            "subject": "English",
+            "teacher": "MM"
+        }
+    ],
+    "thursday" : [
+        {
+            "subject": "Physics",
+            "teacher": "SP"
+        },
+        {
+            "subject": "Chemistry",
+            "teacher": "SK"
+        },
+        {
+            "subject": "Maths",
+            "teacher": "KT"
+        },
+        {
+            "subject": "English",
+            "teacher": "MM"
+        }
+    ],
+    "friday" : [
+        {
+            "subject": "Physics",
+            "teacher": "SP"
+        },
+        {
+            "subject": "Chemistry",
+            "teacher": "SK"
+        },
+        {
+            "subject": "Maths",
+            "teacher": "KT"
+        },
+        {
+            "subject": "English",
+            "teacher": "MM"
+        }
+    ],
+    "saturday" : [
+        {
+            "subject": "Physics",
+            "teacher": "SP"
+        },
+        {
+            "subject": "Chemistry",
+            "teacher": "SK"
+        },
+        {
+            "subject": "Maths",
+            "teacher": "KT"
+        },
+        {
+            "subject": "English",
+            "teacher": "MM"
+        }
+    ]
+}
+
+
+    
